@@ -1,0 +1,1 @@
+-- insert into vehicles (model_name, assembler, manufacture_year, model_year) values ('Flex', 'Ford', 2013, 2014);
